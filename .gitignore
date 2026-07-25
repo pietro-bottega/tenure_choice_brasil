@@ -1,0 +1,15 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python / Anaconda caches
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# Data files (keep raw data uncommitted if large)
+*.csv
+*.xlsx
+*.parquet
