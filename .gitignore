@@ -13,3 +13,5 @@ __pycache__/
 *.csv
 *.xlsx
 *.parquet
+*.txt
+*.txt:Zone.Identifier
