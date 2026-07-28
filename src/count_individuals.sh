@@ -1,0 +1,1 @@
+awk '{ sum += substr($0, 58, 15) } END { printf "Total Expanded: %".0f\n", sum / 10^8 }' pnad_urban_households.txt
