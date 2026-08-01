@@ -198,4 +198,7 @@ dependencies:
   - zlib=1.3.2=h47b2149_0
   - zlib-ng=2.3.3=hceb46e0_1
   - zstd=1.5.7=hb78ec9c_6
+  - pip:
+      - pnadc==0.0.7
+      - tqdm==4.70.0
 prefix: /home/pietrobottega/anaconda3/envs/tcc
